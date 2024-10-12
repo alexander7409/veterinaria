@@ -1,0 +1,77 @@
+.padre{
+    background-color: #d9ab00;
+    color: white;
+    height: 100px;
+}
+.logo{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.menu li{
+    float: left;
+    width: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.menu{
+    margin-left: 300px;
+    width: 500px;
+    height: 100px;
+}
+body{
+    margin: 0px;
+}
+
+.flotar{
+    float: left;
+}
+ul{
+    list-style: none;
+    
+}
+.busqueda{
+    padding-top: 35px;
+}
+.busqueda input{
+    height: 20px;
+}
+.lupa{
+    height: 25px;
+    background-color: #00bdc9;
+}
+.seccion1 .hijo2{
+    width: 400px;
+}
+.seccion1{
+    background-color: #fbc302;
+    height: 800px;
+    color: white;
+}
+.seccion1 .hijo1{
+    padding-top: 100px;
+    padding-left: 80px;
+}
+.seccion1 h1{
+    font-size: 50px;
+}
+.seccion1 p{
+    font-size: 15px;
+}
+.seccion1 .boton1{
+    background-color: #00bdc9;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.seccion1 .boton2{
+    border: 2px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+}
